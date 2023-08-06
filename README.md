@@ -1,6 +1,8 @@
 # Introduction
 Un boitier de rangement pour batteries 18650, de ma conception, paramétrable.
 
+Je l'ai également ajouté sur Thingiverse : https://www.thingiverse.com/thing:6156247
+
 Possédant énormément d'accus 18650 (pour beaucoup issus de la récup), j'avais réalisé il y a quelques temps un boitier batteries 10x5 à l'aide du logiciel Autodesk Fusion 360.
 
 Entre temps j'ai découvert la modélisation avec Openscad et j'ai réalisé que modéliser un boitier 18650 n'était pas si compliqué que cela sous Openscad.
